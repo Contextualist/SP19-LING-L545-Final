@@ -1,0 +1,510 @@
+QS ll_segment_is__GREEKSMALLLETTERCHI_ {*/0:_GREEKSMALLLETTERCHI_/*}
+QS ll_segment_is__COMBININGVERTICALLINEBELOW_ {*/0:_COMBININGVERTICALLINEBELOW_/*}
+QS ll_segment_is__GREEKSMALLLETTERTHETA_ {*/0:_GREEKSMALLLETTERTHETA_/*}
+QS ll_segment_is__LATINLETTERGLOTTALSTOP_ {*/0:_LATINLETTERGLOTTALSTOP_/*}
+QS ll_segment_is__LATINLETTERSMALLCAPITALI_ {*/0:_LATINLETTERSMALLCAPITALI_/*}
+QS ll_segment_is__LATINSMALLCAPITALLETTERIWITHSTROKE_ {*/0:_LATINSMALLCAPITALLETTERIWITHSTROKE_/*}
+QS ll_segment_is__LATINSMALLLETTERAE_ {*/0:_LATINSMALLLETTERAE_/*}
+QS ll_segment_is__LATINSMALLLETTERALPHA_ {*/0:_LATINSMALLLETTERALPHA_/*}
+QS ll_segment_is__LATINSMALLLETTERCWITHCURL_ {*/0:_LATINSMALLLETTERCWITHCURL_/*}
+QS ll_segment_is__LATINSMALLLETTERENG_ {*/0:_LATINSMALLLETTERENG_/*}
+QS ll_segment_is__LATINSMALLLETTERESH_ {*/0:_LATINSMALLLETTERESH_/*}
+QS ll_segment_is__LATINSMALLLETTERETH_ {*/0:_LATINSMALLLETTERETH_/*}
+QS ll_segment_is__LATINSMALLLETTEREZH_ {*/0:_LATINSMALLLETTEREZH_/*}
+QS ll_segment_is__LATINSMALLLETTERGAMMA_ {*/0:_LATINSMALLLETTERGAMMA_/*}
+QS ll_segment_is__LATINSMALLLETTEROPENE_ {*/0:_LATINSMALLLETTEROPENE_/*}
+QS ll_segment_is__LATINSMALLLETTERREVERSEDE_ {*/0:_LATINSMALLLETTERREVERSEDE_/*}
+QS ll_segment_is__LATINSMALLLETTEROPENO_ {*/0:_LATINSMALLLETTEROPENO_/*}
+QS ll_segment_is__LATINSMALLLETTERREVERSEDOPENE_ {*/0:_LATINSMALLLETTERREVERSEDOPENE_/*}
+QS ll_segment_is__LATINSMALLLETTERRWITHFISHHOOK_ {*/0:_LATINSMALLLETTERRWITHFISHHOOK_/*}
+QS ll_segment_is__LATINSMALLLETTERSCHWAWITHHOOK_ {*/0:_LATINSMALLLETTERSCHWAWITHHOOK_/*}
+QS ll_segment_is__LATINSMALLLETTERSCHWA_ {*/0:_LATINSMALLLETTERSCHWA_/*}
+QS ll_segment_is__LATINSMALLLETTERSCRIPTG_ {*/0:_LATINSMALLLETTERSCRIPTG_/*}
+QS ll_segment_is__LATINSMALLLETTERSWITHHOOK_ {*/0:_LATINSMALLLETTERSWITHHOOK_/*}
+QS ll_segment_is__LATINSMALLLETTERTURNEDA_ {*/0:_LATINSMALLLETTERTURNEDA_/*}
+QS ll_segment_is__LATINSMALLLETTERTURNEDR_ {*/0:_LATINSMALLLETTERTURNEDR_/*}
+QS ll_segment_is__LATINSMALLLETTERTURNEDV_ {*/0:_LATINSMALLLETTERTURNEDV_/*}
+QS ll_segment_is__LATINSMALLLETTERUPSILON_ {*/0:_LATINSMALLLETTERUPSILON_/*}
+QS ll_segment_is__LATINSMALLLETTERVWITHHOOK_ {*/0:_LATINSMALLLETTERVWITHHOOK_/*}
+QS ll_segment_is__LATINSMALLLETTERZWITHCURL_ {*/0:_LATINSMALLLETTERZWITHCURL_/*}
+QS ll_segment_is__LATINSMALLLETTERZWITHRETROFLEXHOOK_ {*/0:_LATINSMALLLETTERZWITHRETROFLEXHOOK_/*}
+QS ll_segment_is__MODIFIERLETTERTRIANGULARCOLON_ {*/0:_MODIFIERLETTERTRIANGULARCOLON_/*}
+QS ll_segment_is_a {*/0:a/*}
+QS ll_segment_is_b {*/0:b/*}
+QS ll_segment_is_d {*/0:d/*}
+QS ll_segment_is_e {*/0:e/*}
+QS ll_segment_is_f {*/0:f/*}
+QS ll_segment_is_h {*/0:h/*}
+QS ll_segment_is_i {*/0:i/*}
+QS ll_segment_is_j {*/0:j/*}
+QS ll_segment_is_k {*/0:k/*}
+QS ll_segment_is_l {*/0:l/*}
+QS ll_segment_is_m {*/0:m/*}
+QS ll_segment_is_n {*/0:n/*}
+QS ll_segment_is_o {*/0:o/*}
+QS ll_segment_is_p {*/0:p/*}
+QS ll_segment_is_r {*/0:r/*}
+QS ll_segment_is_s {*/0:s/*}
+QS ll_segment_is_sil {*/0:sil/*}
+QS ll_segment_is_t {*/0:t/*}
+QS ll_segment_is_u {*/0:u/*}
+QS ll_segment_is_v {*/0:v/*}
+QS ll_segment_is_w {*/0:w/*}
+QS ll_segment_is_y {*/0:y/*}
+QS ll_segment_is_x {*/0:x/*}
+QS ll_segment_is_z {*/0:z/*}
+QS ll_segment_is__NA_ {*/0:_NA_/*}
+
+
+
+QS l_segment_is__GREEKSMALLLETTERCHI_ {*/1:_GREEKSMALLLETTERCHI_/*}
+QS l_segment_is__COMBININGVERTICALLINEBELOW_ {*/1:_COMBININGVERTICALLINEBELOW_/*}
+QS l_segment_is__GREEKSMALLLETTERTHETA_ {*/1:_GREEKSMALLLETTERTHETA_/*}
+QS l_segment_is__LATINLETTERGLOTTALSTOP_ {*/1:_LATINLETTERGLOTTALSTOP_/*}
+QS l_segment_is__LATINLETTERSMALLCAPITALI_ {*/1:_LATINLETTERSMALLCAPITALI_/*}
+QS l_segment_is__LATINSMALLCAPITALLETTERIWITHSTROKE_ {*/1:_LATINSMALLCAPITALLETTERIWITHSTROKE_/*}
+QS l_segment_is__LATINSMALLLETTERAE_ {*/1:_LATINSMALLLETTERAE_/*}
+QS l_segment_is__LATINSMALLLETTERALPHA_ {*/1:_LATINSMALLLETTERALPHA_/*}
+QS l_segment_is__LATINSMALLLETTERCWITHCURL_ {*/1:_LATINSMALLLETTERCWITHCURL_/*}
+QS l_segment_is__LATINSMALLLETTERENG_ {*/1:_LATINSMALLLETTERENG_/*}
+QS l_segment_is__LATINSMALLLETTERESH_ {*/1:_LATINSMALLLETTERESH_/*}
+QS l_segment_is__LATINSMALLLETTERETH_ {*/1:_LATINSMALLLETTERETH_/*}
+QS l_segment_is__LATINSMALLLETTEREZH_ {*/1:_LATINSMALLLETTEREZH_/*}
+QS l_segment_is__LATINSMALLLETTERGAMMA_ {*/1:_LATINSMALLLETTERGAMMA_/*}
+QS l_segment_is__LATINSMALLLETTEROPENE_ {*/1:_LATINSMALLLETTEROPENE_/*}
+QS l_segment_is__LATINSMALLLETTERREVERSEDE_ {*/1:_LATINSMALLLETTERREVERSEDE_/*}
+QS l_segment_is__LATINSMALLLETTEROPENO_ {*/1:_LATINSMALLLETTEROPENO_/*}
+QS l_segment_is__LATINSMALLLETTERREVERSEDOPENE_ {*/1:_LATINSMALLLETTERREVERSEDOPENE_/*}
+QS l_segment_is__LATINSMALLLETTERRWITHFISHHOOK_ {*/1:_LATINSMALLLETTERRWITHFISHHOOK_/*}
+QS l_segment_is__LATINSMALLLETTERSCHWAWITHHOOK_ {*/1:_LATINSMALLLETTERSCHWAWITHHOOK_/*}
+QS l_segment_is__LATINSMALLLETTERSCHWA_ {*/1:_LATINSMALLLETTERSCHWA_/*}
+QS l_segment_is__LATINSMALLLETTERSCRIPTG_ {*/1:_LATINSMALLLETTERSCRIPTG_/*}
+QS l_segment_is__LATINSMALLLETTERSWITHHOOK_ {*/1:_LATINSMALLLETTERSWITHHOOK_/*}
+QS l_segment_is__LATINSMALLLETTERTURNEDA_ {*/1:_LATINSMALLLETTERTURNEDA_/*}
+QS l_segment_is__LATINSMALLLETTERTURNEDR_ {*/1:_LATINSMALLLETTERTURNEDR_/*}
+QS l_segment_is__LATINSMALLLETTERTURNEDV_ {*/1:_LATINSMALLLETTERTURNEDV_/*}
+QS l_segment_is__LATINSMALLLETTERUPSILON_ {*/1:_LATINSMALLLETTERUPSILON_/*}
+QS l_segment_is__LATINSMALLLETTERVWITHHOOK_ {*/1:_LATINSMALLLETTERVWITHHOOK_/*}
+QS l_segment_is__LATINSMALLLETTERZWITHCURL_ {*/1:_LATINSMALLLETTERZWITHCURL_/*}
+QS l_segment_is__LATINSMALLLETTERZWITHRETROFLEXHOOK_ {*/1:_LATINSMALLLETTERZWITHRETROFLEXHOOK_/*}
+QS l_segment_is__MODIFIERLETTERTRIANGULARCOLON_ {*/1:_MODIFIERLETTERTRIANGULARCOLON_/*}
+QS l_segment_is_a {*/1:a/*}
+QS l_segment_is_b {*/1:b/*}
+QS l_segment_is_d {*/1:d/*}
+QS l_segment_is_e {*/1:e/*}
+QS l_segment_is_f {*/1:f/*}
+QS l_segment_is_h {*/1:h/*}
+QS l_segment_is_i {*/1:i/*}
+QS l_segment_is_j {*/1:j/*}
+QS l_segment_is_k {*/1:k/*}
+QS l_segment_is_l {*/1:l/*}
+QS l_segment_is_m {*/1:m/*}
+QS l_segment_is_n {*/1:n/*}
+QS l_segment_is_o {*/1:o/*}
+QS l_segment_is_p {*/1:p/*}
+QS l_segment_is_r {*/1:r/*}
+QS l_segment_is_s {*/1:s/*}
+QS l_segment_is_sil {*/1:sil/*}
+QS l_segment_is_t {*/1:t/*}
+QS l_segment_is_u {*/1:u/*}
+QS l_segment_is_v {*/1:v/*}
+QS l_segment_is_w {*/1:w/*}
+QS l_segment_is_y {*/1:y/*}
+QS l_segment_is_x {*/1:x/*}
+QS l_segment_is_z {*/1:z/*}
+QS l_segment_is__NA_ {*/1:_NA_/*}
+
+
+
+QS c_segment_is__GREEKSMALLLETTERCHI_ {*/2:_GREEKSMALLLETTERCHI_/*}
+QS c_segment_is__COMBININGVERTICALLINEBELOW_ {*/2:_COMBININGVERTICALLINEBELOW_/*}
+QS c_segment_is__GREEKSMALLLETTERTHETA_ {*/2:_GREEKSMALLLETTERTHETA_/*}
+QS c_segment_is__LATINLETTERGLOTTALSTOP_ {*/2:_LATINLETTERGLOTTALSTOP_/*}
+QS c_segment_is__LATINLETTERSMALLCAPITALI_ {*/2:_LATINLETTERSMALLCAPITALI_/*}
+QS c_segment_is__LATINSMALLCAPITALLETTERIWITHSTROKE_ {*/2:_LATINSMALLCAPITALLETTERIWITHSTROKE_/*}
+QS c_segment_is__LATINSMALLLETTERAE_ {*/2:_LATINSMALLLETTERAE_/*}
+QS c_segment_is__LATINSMALLLETTERALPHA_ {*/2:_LATINSMALLLETTERALPHA_/*}
+QS c_segment_is__LATINSMALLLETTERCWITHCURL_ {*/2:_LATINSMALLLETTERCWITHCURL_/*}
+QS c_segment_is__LATINSMALLLETTERENG_ {*/2:_LATINSMALLLETTERENG_/*}
+QS c_segment_is__LATINSMALLLETTERESH_ {*/2:_LATINSMALLLETTERESH_/*}
+QS c_segment_is__LATINSMALLLETTERETH_ {*/2:_LATINSMALLLETTERETH_/*}
+QS c_segment_is__LATINSMALLLETTEREZH_ {*/2:_LATINSMALLLETTEREZH_/*}
+QS c_segment_is__LATINSMALLLETTERGAMMA_ {*/2:_LATINSMALLLETTERGAMMA_/*}
+QS c_segment_is__LATINSMALLLETTEROPENE_ {*/2:_LATINSMALLLETTEROPENE_/*}
+QS c_segment_is__LATINSMALLLETTERREVERSEDE_ {*/2:_LATINSMALLLETTERREVERSEDE_/*}
+QS c_segment_is__LATINSMALLLETTEROPENO_ {*/2:_LATINSMALLLETTEROPENO_/*}
+QS c_segment_is__LATINSMALLLETTERREVERSEDOPENE_ {*/2:_LATINSMALLLETTERREVERSEDOPENE_/*}
+QS c_segment_is__LATINSMALLLETTERRWITHFISHHOOK_ {*/2:_LATINSMALLLETTERRWITHFISHHOOK_/*}
+QS c_segment_is__LATINSMALLLETTERSCHWAWITHHOOK_ {*/2:_LATINSMALLLETTERSCHWAWITHHOOK_/*}
+QS c_segment_is__LATINSMALLLETTERSCHWA_ {*/2:_LATINSMALLLETTERSCHWA_/*}
+QS c_segment_is__LATINSMALLLETTERSCRIPTG_ {*/2:_LATINSMALLLETTERSCRIPTG_/*}
+QS c_segment_is__LATINSMALLLETTERSWITHHOOK_ {*/2:_LATINSMALLLETTERSWITHHOOK_/*}
+QS c_segment_is__LATINSMALLLETTERTURNEDA_ {*/2:_LATINSMALLLETTERTURNEDA_/*}
+QS c_segment_is__LATINSMALLLETTERTURNEDR_ {*/2:_LATINSMALLLETTERTURNEDR_/*}
+QS c_segment_is__LATINSMALLLETTERTURNEDV_ {*/2:_LATINSMALLLETTERTURNEDV_/*}
+QS c_segment_is__LATINSMALLLETTERUPSILON_ {*/2:_LATINSMALLLETTERUPSILON_/*}
+QS c_segment_is__LATINSMALLLETTERVWITHHOOK_ {*/2:_LATINSMALLLETTERVWITHHOOK_/*}
+QS c_segment_is__LATINSMALLLETTERZWITHCURL_ {*/2:_LATINSMALLLETTERZWITHCURL_/*}
+QS c_segment_is__LATINSMALLLETTERZWITHRETROFLEXHOOK_ {*/2:_LATINSMALLLETTERZWITHRETROFLEXHOOK_/*}
+QS c_segment_is__MODIFIERLETTERTRIANGULARCOLON_ {*/2:_MODIFIERLETTERTRIANGULARCOLON_/*}
+QS c_segment_is_a {*/2:a/*}
+QS c_segment_is_b {*/2:b/*}
+QS c_segment_is_d {*/2:d/*}
+QS c_segment_is_e {*/2:e/*}
+QS c_segment_is_f {*/2:f/*}
+QS c_segment_is_h {*/2:h/*}
+QS c_segment_is_i {*/2:i/*}
+QS c_segment_is_j {*/2:j/*}
+QS c_segment_is_k {*/2:k/*}
+QS c_segment_is_l {*/2:l/*}
+QS c_segment_is_m {*/2:m/*}
+QS c_segment_is_n {*/2:n/*}
+QS c_segment_is_o {*/2:o/*}
+QS c_segment_is_p {*/2:p/*}
+QS c_segment_is_r {*/2:r/*}
+QS c_segment_is_s {*/2:s/*}
+QS c_segment_is_sil {*/2:sil/*}
+QS c_segment_is_t {*/2:t/*}
+QS c_segment_is_u {*/2:u/*}
+QS c_segment_is_v {*/2:v/*}
+QS c_segment_is_w {*/2:w/*}
+QS c_segment_is_y {*/2:y/*}
+QS c_segment_is_x {*/2:x/*}
+QS c_segment_is_z {*/2:z/*}
+
+
+
+QS r_segment_is__GREEKSMALLLETTERCHI_ {*/3:_GREEKSMALLLETTERCHI_/*}
+QS r_segment_is__COMBININGVERTICALLINEBELOW_ {*/3:_COMBININGVERTICALLINEBELOW_/*}
+QS r_segment_is__GREEKSMALLLETTERTHETA_ {*/3:_GREEKSMALLLETTERTHETA_/*}
+QS r_segment_is__LATINLETTERGLOTTALSTOP_ {*/3:_LATINLETTERGLOTTALSTOP_/*}
+QS r_segment_is__LATINLETTERSMALLCAPITALI_ {*/3:_LATINLETTERSMALLCAPITALI_/*}
+QS r_segment_is__LATINSMALLCAPITALLETTERIWITHSTROKE_ {*/3:_LATINSMALLCAPITALLETTERIWITHSTROKE_/*}
+QS r_segment_is__LATINSMALLLETTERAE_ {*/3:_LATINSMALLLETTERAE_/*}
+QS r_segment_is__LATINSMALLLETTERALPHA_ {*/3:_LATINSMALLLETTERALPHA_/*}
+QS r_segment_is__LATINSMALLLETTERCWITHCURL_ {*/3:_LATINSMALLLETTERCWITHCURL_/*}
+QS r_segment_is__LATINSMALLLETTERENG_ {*/3:_LATINSMALLLETTERENG_/*}
+QS r_segment_is__LATINSMALLLETTERESH_ {*/3:_LATINSMALLLETTERESH_/*}
+QS r_segment_is__LATINSMALLLETTERETH_ {*/3:_LATINSMALLLETTERETH_/*}
+QS r_segment_is__LATINSMALLLETTEREZH_ {*/3:_LATINSMALLLETTEREZH_/*}
+QS r_segment_is__LATINSMALLLETTERGAMMA_ {*/3:_LATINSMALLLETTERGAMMA_/*}
+QS r_segment_is__LATINSMALLLETTEROPENE_ {*/3:_LATINSMALLLETTEROPENE_/*}
+QS r_segment_is__LATINSMALLLETTERREVERSEDE_ {*/3:_LATINSMALLLETTERREVERSEDE_/*}
+QS r_segment_is__LATINSMALLLETTEROPENO_ {*/3:_LATINSMALLLETTEROPENO_/*}
+QS r_segment_is__LATINSMALLLETTERREVERSEDOPENE_ {*/3:_LATINSMALLLETTERREVERSEDOPENE_/*}
+QS r_segment_is__LATINSMALLLETTERRWITHFISHHOOK_ {*/3:_LATINSMALLLETTERRWITHFISHHOOK_/*}
+QS r_segment_is__LATINSMALLLETTERSCHWAWITHHOOK_ {*/3:_LATINSMALLLETTERSCHWAWITHHOOK_/*}
+QS r_segment_is__LATINSMALLLETTERSCHWA_ {*/3:_LATINSMALLLETTERSCHWA_/*}
+QS r_segment_is__LATINSMALLLETTERSCRIPTG_ {*/3:_LATINSMALLLETTERSCRIPTG_/*}
+QS r_segment_is__LATINSMALLLETTERSWITHHOOK_ {*/3:_LATINSMALLLETTERSWITHHOOK_/*}
+QS r_segment_is__LATINSMALLLETTERTURNEDA_ {*/3:_LATINSMALLLETTERTURNEDA_/*}
+QS r_segment_is__LATINSMALLLETTERTURNEDR_ {*/3:_LATINSMALLLETTERTURNEDR_/*}
+QS r_segment_is__LATINSMALLLETTERTURNEDV_ {*/3:_LATINSMALLLETTERTURNEDV_/*}
+QS r_segment_is__LATINSMALLLETTERUPSILON_ {*/3:_LATINSMALLLETTERUPSILON_/*}
+QS r_segment_is__LATINSMALLLETTERVWITHHOOK_ {*/3:_LATINSMALLLETTERVWITHHOOK_/*}
+QS r_segment_is__LATINSMALLLETTERZWITHCURL_ {*/3:_LATINSMALLLETTERZWITHCURL_/*}
+QS r_segment_is__LATINSMALLLETTERZWITHRETROFLEXHOOK_ {*/3:_LATINSMALLLETTERZWITHRETROFLEXHOOK_/*}
+QS r_segment_is__MODIFIERLETTERTRIANGULARCOLON_ {*/3:_MODIFIERLETTERTRIANGULARCOLON_/*}
+QS r_segment_is_a {*/3:a/*}
+QS r_segment_is_b {*/3:b/*}
+QS r_segment_is_d {*/3:d/*}
+QS r_segment_is_e {*/3:e/*}
+QS r_segment_is_f {*/3:f/*}
+QS r_segment_is_h {*/3:h/*}
+QS r_segment_is_i {*/3:i/*}
+QS r_segment_is_j {*/3:j/*}
+QS r_segment_is_k {*/3:k/*}
+QS r_segment_is_l {*/3:l/*}
+QS r_segment_is_m {*/3:m/*}
+QS r_segment_is_n {*/3:n/*}
+QS r_segment_is_o {*/3:o/*}
+QS r_segment_is_p {*/3:p/*}
+QS r_segment_is_r {*/3:r/*}
+QS r_segment_is_s {*/3:s/*}
+QS r_segment_is_sil {*/3:sil/*}
+QS r_segment_is_t {*/3:t/*}
+QS r_segment_is_u {*/3:u/*}
+QS r_segment_is_v {*/3:v/*}
+QS r_segment_is_w {*/3:w/*}
+QS r_segment_is_y {*/3:y/*}
+QS r_segment_is_x {*/3:x/*}
+QS r_segment_is_z {*/3:z/*}
+QS r_segment_is__NA_ {*/3:_NA_/*}
+
+
+
+QS rr_segment_is__GREEKSMALLLETTERCHI_ {*/4:_GREEKSMALLLETTERCHI_/*}
+QS rr_segment_is__COMBININGVERTICALLINEBELOW_ {*/4:_COMBININGVERTICALLINEBELOW_/*}
+QS rr_segment_is__GREEKSMALLLETTERTHETA_ {*/4:_GREEKSMALLLETTERTHETA_/*}
+QS rr_segment_is__LATINLETTERGLOTTALSTOP_ {*/4:_LATINLETTERGLOTTALSTOP_/*}
+QS rr_segment_is__LATINLETTERSMALLCAPITALI_ {*/4:_LATINLETTERSMALLCAPITALI_/*}
+QS rr_segment_is__LATINSMALLCAPITALLETTERIWITHSTROKE_ {*/4:_LATINSMALLCAPITALLETTERIWITHSTROKE_/*}
+QS rr_segment_is__LATINSMALLLETTERAE_ {*/4:_LATINSMALLLETTERAE_/*}
+QS rr_segment_is__LATINSMALLLETTERALPHA_ {*/4:_LATINSMALLLETTERALPHA_/*}
+QS rr_segment_is__LATINSMALLLETTERCWITHCURL_ {*/4:_LATINSMALLLETTERCWITHCURL_/*}
+QS rr_segment_is__LATINSMALLLETTERENG_ {*/4:_LATINSMALLLETTERENG_/*}
+QS rr_segment_is__LATINSMALLLETTERESH_ {*/4:_LATINSMALLLETTERESH_/*}
+QS rr_segment_is__LATINSMALLLETTERETH_ {*/4:_LATINSMALLLETTERETH_/*}
+QS rr_segment_is__LATINSMALLLETTEREZH_ {*/4:_LATINSMALLLETTEREZH_/*}
+QS rr_segment_is__LATINSMALLLETTERGAMMA_ {*/4:_LATINSMALLLETTERGAMMA_/*}
+QS rr_segment_is__LATINSMALLLETTEROPENE_ {*/4:_LATINSMALLLETTEROPENE_/*}
+QS rr_segment_is__LATINSMALLLETTERREVERSEDE_ {*/4:_LATINSMALLLETTERREVERSEDE_/*}
+QS rr_segment_is__LATINSMALLLETTEROPENO_ {*/4:_LATINSMALLLETTEROPENO_/*}
+QS rr_segment_is__LATINSMALLLETTERREVERSEDOPENE_ {*/4:_LATINSMALLLETTERREVERSEDOPENE_/*}
+QS rr_segment_is__LATINSMALLLETTERRWITHFISHHOOK_ {*/4:_LATINSMALLLETTERRWITHFISHHOOK_/*}
+QS rr_segment_is__LATINSMALLLETTERSCHWAWITHHOOK_ {*/4:_LATINSMALLLETTERSCHWAWITHHOOK_/*}
+QS rr_segment_is__LATINSMALLLETTERSCHWA_ {*/4:_LATINSMALLLETTERSCHWA_/*}
+QS rr_segment_is__LATINSMALLLETTERSCRIPTG_ {*/4:_LATINSMALLLETTERSCRIPTG_/*}
+QS rr_segment_is__LATINSMALLLETTERSWITHHOOK_ {*/4:_LATINSMALLLETTERSWITHHOOK_/*}
+QS rr_segment_is__LATINSMALLLETTERTURNEDA_ {*/4:_LATINSMALLLETTERTURNEDA_/*}
+QS rr_segment_is__LATINSMALLLETTERTURNEDR_ {*/4:_LATINSMALLLETTERTURNEDR_/*}
+QS rr_segment_is__LATINSMALLLETTERTURNEDV_ {*/4:_LATINSMALLLETTERTURNEDV_/*}
+QS rr_segment_is__LATINSMALLLETTERUPSILON_ {*/4:_LATINSMALLLETTERUPSILON_/*}
+QS rr_segment_is__LATINSMALLLETTERVWITHHOOK_ {*/4:_LATINSMALLLETTERVWITHHOOK_/*}
+QS rr_segment_is__LATINSMALLLETTERZWITHCURL_ {*/4:_LATINSMALLLETTERZWITHCURL_/*}
+QS rr_segment_is__LATINSMALLLETTERZWITHRETROFLEXHOOK_ {*/4:_LATINSMALLLETTERZWITHRETROFLEXHOOK_/*}
+QS rr_segment_is__MODIFIERLETTERTRIANGULARCOLON_ {*/4:_MODIFIERLETTERTRIANGULARCOLON_/*}
+QS rr_segment_is_a {*/4:a/*}
+QS rr_segment_is_b {*/4:b/*}
+QS rr_segment_is_d {*/4:d/*}
+QS rr_segment_is_e {*/4:e/*}
+QS rr_segment_is_f {*/4:f/*}
+QS rr_segment_is_h {*/4:h/*}
+QS rr_segment_is_i {*/4:i/*}
+QS rr_segment_is_j {*/4:j/*}
+QS rr_segment_is_k {*/4:k/*}
+QS rr_segment_is_l {*/4:l/*}
+QS rr_segment_is_m {*/4:m/*}
+QS rr_segment_is_n {*/4:n/*}
+QS rr_segment_is_o {*/4:o/*}
+QS rr_segment_is_p {*/4:p/*}
+QS rr_segment_is_r {*/4:r/*}
+QS rr_segment_is_s {*/4:s/*}
+QS rr_segment_is_sil {*/4:sil/*}
+QS rr_segment_is_t {*/4:t/*}
+QS rr_segment_is_u {*/4:u/*}
+QS rr_segment_is_v {*/4:v/*}
+QS rr_segment_is_w {*/4:w/*}
+QS rr_segment_is_y {*/4:y/*}
+QS rr_segment_is_x {*/4:x/*}
+QS rr_segment_is_z {*/4:z/*}
+QS rr_segment_is__NA_ {*/4:_NA_/*}
+
+
+
+CQS length_left_word {*/5:(\d+)/*}
+
+
+
+CQS length_current_word {*/6:(\d+)/*}
+
+
+
+CQS length_right_word {*/7:(\d+)/*}
+
+
+
+CQS since_beginning_of_word {*/8:(\d+)/*}
+
+
+
+CQS till_end_of_word {*/9:(\d+)/*}
+
+
+
+CQS length_l_phrase_in_words {*/10:(\d+)/*}
+
+
+
+CQS length_c_phrase_in_words {*/11:(\d+)/*}
+
+
+
+CQS length_r_phrase_in_words {*/12:(\d+)/*}
+
+
+
+CQS length_l_phrase_in_segments {*/13:(\d+)/*}
+
+
+
+CQS length_c_phrase_in_segments {*/14:(\d+)/*}
+
+
+
+CQS length_r_phrase_in_segments {*/15:(\d+)/*}
+
+
+
+CQS since_phrase_start_in_segs {*/16:(\d+)/*}
+
+
+
+CQS till_phrase_end_in_segs {*/17:(\d+)/*}
+
+
+
+CQS since_phrase_start_in_words {*/18:(\d+)/*}
+
+
+
+CQS till_phrase_end_in_words {*/19:(\d+)/*}
+
+
+
+CQS since_start_sentence_in_segments {*/20:(\d+)/*}
+
+
+
+CQS since_start_sentence_in_words {*/21:(\d+)/*}
+
+
+
+CQS since_start_sentence_in_phrases {*/22:(\d+)/*}
+
+
+
+CQS till_end_sentence_in_segments {*/23:(\d+)/*}
+
+
+
+CQS till_end_sentence_in_words {*/24:(\d+)/*}
+
+
+
+CQS till_end_sentence_in_phrases {*/25:(\d+)/*}
+
+
+
+CQS length_sentence_in_segments {*/26:(\d+)/*}
+
+
+
+CQS length_sentence_in_words {*/27:(\d+)/*}
+
+
+
+CQS length_sentence_in_phrases {*/28:(\d+)/*}
+
+
+
+CQS L_vsm_d1 {*/29:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d1 {*/30:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d1 {*/31:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d2 {*/32:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d2 {*/33:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d2 {*/34:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d3 {*/35:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d3 {*/36:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d3 {*/37:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d4 {*/38:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d4 {*/39:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d4 {*/40:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d5 {*/41:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d5 {*/42:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d5 {*/43:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d6 {*/44:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d6 {*/45:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d6 {*/46:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d7 {*/47:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d7 {*/48:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d7 {*/49:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d8 {*/50:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d8 {*/51:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d8 {*/52:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d9 {*/53:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d9 {*/54:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d9 {*/55:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d10 {*/56:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d10 {*/57:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d10 {*/58:([\d\.]+)/*}
+
+
+
